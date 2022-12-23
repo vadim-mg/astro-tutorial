@@ -11,7 +11,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^1.6.10"
+    "@astrojs/preact": "^1.2.0",
+    "@astrojs/rss": "^1.2.1",
+    "astro": "^1.6.10",
+    "preact": "^10.11.3"
   },
   "volta": {
     "node": "16.18.1"
